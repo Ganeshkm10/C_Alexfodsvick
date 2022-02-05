@@ -8,7 +8,7 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 1. What is the average current per period?
    Answer:
    <br>Screenshot:  
-   ![Avg_current_per_period](screenshots/sampleimage.jpg)  
+   ![Avg_current_per_period](https://github.com/Ganeshkm10/C_Alexfodsvick/blob/master/Avg_current_per_period.png)  
    
 2. What is the average current when the Si7021 is Powered Off?  
    Answer:
