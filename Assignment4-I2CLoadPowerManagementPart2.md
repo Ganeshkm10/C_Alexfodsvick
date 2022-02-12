@@ -26,7 +26,7 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
    ![duration_lpm_on](https://github.com/CU-ECEN-5823/ecen5823-assignment4-Ganeshkm10/blob/master/Screenshots/Duration_LMP_On_A4.png)  
 
 5. Compute what the total operating time of your design for assignment 4 would be in hours, assuming a 1000mAh battery power supply?
-   Answer:
+   Answer: 7.3 years.
    
 6. How has the power consumption performance of your design changed since the previous assignment?
  
