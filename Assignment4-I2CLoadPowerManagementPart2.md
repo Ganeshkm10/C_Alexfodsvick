@@ -13,12 +13,12 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 2. What is the average current when the Si7021 is Powered Off?
    Answer:2.13 mirco amps
    <br>Screenshot:  
-   ![Avg_current_LPM_Off](https://github.com/CU-ECEN-5823/ecen5823-assignment4-Ganeshkm10/blob/master/Screenshots/Avg_Current_LPM_Off_A4.png)  
+   ![Avg_current_LPM_Off](https://github.com/CU-ECEN-5823/ecen5823-assignment4-Ganeshkm10/blob/master/Screenshots/Avg_current_LPM_Off_A4.png)  
 
 3. What is the average current when the Si7021 is Powered On?
    Answer: 1.02 milli Amps
    <br>Screenshot:  
-   ![Avg_current_LPM_Off](https://github.com/CU-ECEN-5823/ecen5823-assignment4-Ganeshkm10/blob/master/Screenshots/Avg_current_LPM_On_A4.png)  
+   ![Avg_current_LPM_Off](https://github.com/CU-ECEN-5823/ecen5823-assignment4-Ganeshkm10/blob/master/Screenshots/Avg_Current_LPM_On_A4.png)  
 
 4. How long is the Si7021 Powered On for 1 temperature reading?
    Answer: 112 ms
