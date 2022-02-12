@@ -29,12 +29,14 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
    Answer:
    
 6. How has the power consumption performance of your design changed since the previous assignment?
+ 
    Answer: Power consumption is reduced drastically from 529.95 Micro watt for one period to 133.48 Micro watt per period. 
            Average current per period is drastically reduced to 48.48 Micro amps from 159.39 Micro Amps, Which is the signficant improve compared to the Polling design. 
            Hence overall improvement is observed and the Interrupt based design is 4 to 5 times energy efficient than the polled based design.
    
    
 7. Describe how you tested your code for EM1 during I2C transfers ?
+
    Answer: Silicon labs has SLEEP_ENERGYMode_t API which can be used to check the current energy mode the device is present in. 
            Another way is to remove the power add requirement and  check whether I2C is functioning or not. I have used the first way to check whether the device was in EM1                during I2C transfer.
    
