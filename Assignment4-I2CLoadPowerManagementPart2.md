@@ -31,3 +31,6 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 6. How has the power consumption performance of your design changed since the previous assignment?
    Answer:
    
+7. Describe how you tested your code for EM1 during I2C transfers ?
+   Answer:
+   
