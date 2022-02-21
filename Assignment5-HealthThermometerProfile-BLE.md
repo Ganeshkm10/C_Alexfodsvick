@@ -10,35 +10,35 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
    ![advertising_period](screenshots/assignment5/advertising_period.png)  
 
 2. What is the average current between advertisements?
-   Answer:
+   Answer:250 ms
    <br>Screenshot:  
-   ![avg_current_between_advertisements](screenshots/assignment5/avg_current_between_advertisements.png)  
+   ![avg_current_between_advertisements](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Advertising%20period.png)  
 
 3. What is the peak current of an advertisement? 
-   Answer:
+   Answer:9.11mA
    <br>Screenshot:  
-   ![peak_current_of_advertisement](screenshots/assignment5/peak_current_of_advertisement.png)  
+   ![peak_current_of_advertisement](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Peak_current_adverstisiment.png)  
 
 4. Provide screen shot showing the connection interval settings. Do they match the values you set in your slave(server) code or the master's(client) values?.
    <br>Screenshot: 
-   ![connection_interval](screenshots/assignment5/connection_interval.png)  
+   ![connection_interval](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Connection_intervals.png)  
 
 5. What is the average current between connection intervals?
    Answer:
    <br>Screenshot:  
-   ![avg_current_between_connection_intervals](screenshots/assignment5/avg_current_between_connection_intervals.png)  
+   ![avg_current_between_connection_intervals](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Connection_intervals.png)  
 
 6. If possible, provide screen shot verifying the slave latency matches what was reported when you logged the values from event = gecko_evt_le_connection_parameters_id. 
    <br>Screenshot:  
    ![slave_latency](screenshots/assignment5/slave_latency.png)  
 
 7. What is the peak current of a data transmission when the phone is connected and placed next to the Blue Gecko? 
-   Answer:
+   Answer:9.25mA
    <br>Screenshot:  
-   ![peak_current_phone_next_to](screenshots/assignment5/peak_current_phone_next_to.png)  
+   ![peak_current_phone_next_to](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_peakCurrent_phonenext.png)  
    
 8. What is the peak current of a data transmission when the phone is connected and placed approximately 20 feet away from the Blue Gecko? 
-   Answer:
+   Answer:11.41mA
    <br>Screenshot:  
-   ![peak_current_phone_20ft_away](screenshots/assignment5/peak_current_phone_20ft_away.png)  
+   ![peak_current_phone_20ft_away](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Peak_current_20ft.png)  
    
