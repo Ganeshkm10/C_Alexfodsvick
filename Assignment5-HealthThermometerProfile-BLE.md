@@ -7,24 +7,25 @@ See [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
 1. Provide screen shot verifying the Advertising period matches the values required for the assignment.
    <br>Screenshot:  
-   ![advertising_period](screenshots/assignment5/advertising_period.png)  
+   ![advertising_period](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Advertising%20period.png)  
 
 2. What is the average current between advertisements?
    Answer:250 ms
    <br>Screenshot:  
-   ![avg_current_between_advertisements](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Advertising%20period.png)  
+   ![avg_current_between_advertisements](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_AVG_Current_btn_periods.png)  
 
 3. What is the peak current of an advertisement? 
    Answer:9.11mA
    <br>Screenshot:  
    ![peak_current_of_advertisement](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Peak_current_adverstisiment.png)  
 
-4. Provide screen shot showing the connection interval settings. Do they match the values you set in your slave(server) code or the master's(client) values?.
+4. Provide screen shot showing the connection interval settings. Do they match the values you set in your slave(server) code or the master's(client) values?. 
+   Answer: Yes (approximately)
    <br>Screenshot: 
    ![connection_interval](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Connection_intervals.png)  
 
 5. What is the average current between connection intervals?
-   Answer:
+   Answer: 1.83 mirco amps
    <br>Screenshot:  
    ![avg_current_between_connection_intervals](https://github.com/CU-ECEN-5823/ecen5823-assignment5-Ganeshkm10/blob/master/Screenshots/A5_Connection_intervals.png)  
 
